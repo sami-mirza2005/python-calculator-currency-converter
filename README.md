@@ -90,13 +90,6 @@ This project demonstrates:
 - User interaction through console applications
 - Problem-solving using programming
 
-## Future Improvements
-
-- Graphical User Interface (Tkinter)
-- Real-time exchange rates using APIs
-- Error handling and input validation
-- Support for additional currencies
-
 ## Author
 
 **Sami Mirza**
